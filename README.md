@@ -8,5 +8,5 @@
 Открыть страницу с музыкой, нажать `F12`.
 
 Скопировать скрипт со страницы
-<script src="https://gist.github.com/cy7su/c62aad97e9a431cc8e6d98b39f51b5e1.js"></script>
+[<script src="https://gist.github.com/cy7su/c62aad97e9a431cc8e6d98b39f51b5e1.js"></script>](https://raw.githubusercontent.com/cy7su/export-ya.music/refs/heads/main/yandex.music.js)
 вставить его в консоль на странице плейлиста, и нажать `Enter`.
